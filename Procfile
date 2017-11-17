@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n WorkingDog
+web: bin/hubot -a slack -n wanko
